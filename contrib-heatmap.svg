@@ -4126,7 +4126,7 @@
                 width="12"
                 height="12"
                 rx="3"
-                fill="#39d353"
+                fill="#006d32"
                 style="animation-delay:1.017s"
             />
             
@@ -4294,7 +4294,7 @@
                 width="12"
                 height="12"
                 rx="3"
-                fill="#39d353"
+                fill="#006d32"
                 style="animation-delay:1.059s"
             />
             
@@ -4452,6 +4452,18 @@
                 rx="3"
                 fill="#39d353"
                 style="animation-delay:1.098s"
+            />
+            
+
+            <rect
+                data-cell="true"
+                x="810"
+                y="80"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22"
+                style="animation-delay:1.101s"
             />
             
 
