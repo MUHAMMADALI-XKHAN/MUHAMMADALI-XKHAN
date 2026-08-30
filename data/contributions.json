@@ -1,12 +1,7 @@
 {
   "username": "MUHAMMADALI-XKHAN",
-  "fetched_at": "2026-08-29T12:43:37.336183",
+  "fetched_at": "2026-08-30T11:58:38.420617",
   "days": [
-    {
-      "date": "2025-08-24",
-      "count": 0,
-      "level": 0
-    },
     {
       "date": "2025-08-31",
       "count": 0,
@@ -268,7 +263,7 @@
       "level": 0
     },
     {
-      "date": "2025-08-25",
+      "date": "2026-08-30",
       "count": 0,
       "level": 0
     },
@@ -533,11 +528,6 @@
       "level": 4
     },
     {
-      "date": "2025-08-26",
-      "count": 0,
-      "level": 0
-    },
-    {
       "date": "2025-09-02",
       "count": 0,
       "level": 0
@@ -796,11 +786,6 @@
       "date": "2026-08-25",
       "count": 0,
       "level": 4
-    },
-    {
-      "date": "2025-08-27",
-      "count": 0,
-      "level": 0
     },
     {
       "date": "2025-09-03",
@@ -1063,11 +1048,6 @@
       "level": 2
     },
     {
-      "date": "2025-08-28",
-      "count": 0,
-      "level": 0
-    },
-    {
       "date": "2025-09-04",
       "count": 0,
       "level": 0
@@ -1324,11 +1304,6 @@
     },
     {
       "date": "2026-08-27",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-08-29",
       "count": 0,
       "level": 0
     },
@@ -1593,11 +1568,6 @@
       "level": 2
     },
     {
-      "date": "2025-08-30",
-      "count": 0,
-      "level": 0
-    },
-    {
       "date": "2025-09-06",
       "count": 0,
       "level": 0
@@ -1855,14 +1825,14 @@
     {
       "date": "2026-08-29",
       "count": 0,
-      "level": 0
+      "level": 2
     }
   ],
   "stats": {
     "current_streak": 0,
     "longest_streak": 0,
     "best_day": {
-      "date": "2025-08-24",
+      "date": "2025-08-31",
       "count": 0,
       "level": 0
     },
