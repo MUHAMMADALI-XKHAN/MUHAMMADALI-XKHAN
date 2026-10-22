@@ -4462,8 +4462,20 @@
                 width="12"
                 height="12"
                 rx="3"
-                fill="#161b22"
+                fill="#006d32"
                 style="animation-delay:1.101s"
+            />
+            
+
+            <rect
+                data-cell="true"
+                x="810"
+                y="95"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22"
+                style="animation-delay:1.104s"
             />
             
 
