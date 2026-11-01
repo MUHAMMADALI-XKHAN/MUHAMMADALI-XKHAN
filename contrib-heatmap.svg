@@ -3286,7 +3286,7 @@
                 width="12"
                 height="12"
                 rx="3"
-                fill="#161b22"
+                fill="#006d32"
                 style="animation-delay:0.807s"
             />
             
@@ -3370,7 +3370,7 @@
                 width="12"
                 height="12"
                 rx="3"
-                fill="#006d32"
+                fill="#161b22"
                 style="animation-delay:0.828s"
             />
             
@@ -3454,7 +3454,7 @@
                 width="12"
                 height="12"
                 rx="3"
-                fill="#161b22"
+                fill="#006d32"
                 style="animation-delay:0.849s"
             />
             
@@ -3538,7 +3538,7 @@
                 width="12"
                 height="12"
                 rx="3"
-                fill="#006d32"
+                fill="#161b22"
                 style="animation-delay:0.870s"
             />
             
@@ -3598,7 +3598,7 @@
                 width="12"
                 height="12"
                 rx="3"
-                fill="#161b22"
+                fill="#39d353"
                 style="animation-delay:0.885s"
             />
             
@@ -3610,7 +3610,7 @@
                 width="12"
                 height="12"
                 rx="3"
-                fill="#161b22"
+                fill="#39d353"
                 style="animation-delay:0.888s"
             />
             
@@ -3622,7 +3622,7 @@
                 width="12"
                 height="12"
                 rx="3"
-                fill="#161b22"
+                fill="#006d32"
                 style="animation-delay:0.891s"
             />
             
@@ -3646,7 +3646,7 @@
                 width="12"
                 height="12"
                 rx="3"
-                fill="#161b22"
+                fill="#006d32"
                 style="animation-delay:0.897s"
             />
             
@@ -3658,7 +3658,7 @@
                 width="12"
                 height="12"
                 rx="3"
-                fill="#161b22"
+                fill="#006d32"
                 style="animation-delay:0.900s"
             />
             
@@ -3670,7 +3670,7 @@
                 width="12"
                 height="12"
                 rx="3"
-                fill="#161b22"
+                fill="#006d32"
                 style="animation-delay:0.903s"
             />
             
@@ -3682,7 +3682,7 @@
                 width="12"
                 height="12"
                 rx="3"
-                fill="#39d353"
+                fill="#006d32"
                 style="animation-delay:0.906s"
             />
             
@@ -3694,7 +3694,7 @@
                 width="12"
                 height="12"
                 rx="3"
-                fill="#39d353"
+                fill="#006d32"
                 style="animation-delay:0.909s"
             />
             
@@ -3718,7 +3718,7 @@
                 width="12"
                 height="12"
                 rx="3"
-                fill="#161b22"
+                fill="#006d32"
                 style="animation-delay:0.915s"
             />
             
@@ -4426,80 +4426,8 @@
                 width="12"
                 height="12"
                 rx="3"
-                fill="#006d32"
-                style="animation-delay:1.092s"
-            />
-            
-
-            <rect
-                data-cell="true"
-                x="810"
-                y="50"
-                width="12"
-                height="12"
-                rx="3"
-                fill="#006d32"
-                style="animation-delay:1.095s"
-            />
-            
-
-            <rect
-                data-cell="true"
-                x="810"
-                y="65"
-                width="12"
-                height="12"
-                rx="3"
-                fill="#006d32"
-                style="animation-delay:1.098s"
-            />
-            
-
-            <rect
-                data-cell="true"
-                x="810"
-                y="80"
-                width="12"
-                height="12"
-                rx="3"
-                fill="#006d32"
-                style="animation-delay:1.101s"
-            />
-            
-
-            <rect
-                data-cell="true"
-                x="810"
-                y="95"
-                width="12"
-                height="12"
-                rx="3"
-                fill="#006d32"
-                style="animation-delay:1.104s"
-            />
-            
-
-            <rect
-                data-cell="true"
-                x="810"
-                y="110"
-                width="12"
-                height="12"
-                rx="3"
-                fill="#006d32"
-                style="animation-delay:1.107s"
-            />
-            
-
-            <rect
-                data-cell="true"
-                x="810"
-                y="125"
-                width="12"
-                height="12"
-                rx="3"
                 fill="#161b22"
-                style="animation-delay:1.110s"
+                style="animation-delay:1.092s"
             />
             
 
